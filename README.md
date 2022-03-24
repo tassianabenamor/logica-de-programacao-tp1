@@ -5,6 +5,7 @@ Lista 01 de exercício de lógica de programação.
 <h2>Prof. Luiz Paulo Maia</h2>
 <p>
 Faça um algoritmo que troque o valor de duas variáveis. Por exemplo, o algoritmo lê n1 igual a 3 e n2 a 17, e mostra n1 igual a 17 e n2 a 3.
+<br>
 Faça um algoritmo para calcular a média de duas notas digitadas pelo usuário.
 Faça um algoritmo para calcular a média de duas notas digitadas pelo usuário, sendo que a segunda nota tem peso dois.
 Faça um algoritmo que calcule a gorjeta a ser paga de uma conta de restaurante. A gorjeta é calculada como sendo 10% do valor da conta.
